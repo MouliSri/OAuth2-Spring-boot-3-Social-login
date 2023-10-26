@@ -1,0 +1,16 @@
+server:
+  port: 9999
+
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Iv1.8d8c05edf36729b4
+            clientSecret: d079523d25d7c4acc192522049229feb371f7ad4
+          google:
+            clientId: 964435508538-s5ip0rljuq8crmdib3ns8j5bpdpsdlnh.apps.googleusercontent.com
+            clientSecret: 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
+
